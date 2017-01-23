@@ -1,6 +1,6 @@
 {
   "name": "orchestra-components",
-  "version": "0.3.0",
+  "version": "0.3.4",
   "description": "",
   "main": "index.js",
   "author": "Andrew Humphreys <ahumphreys87@googlemail.com>",
@@ -12,5 +12,9 @@
     "redux": "^3.6.0",
     "redux-logger": "^2.7.4",
     "redux-thunk": "^2.1.0"
+  },
+  "devDependencies": {
+    "@webcomponents/custom-elements": "^1.0.0-alpha.3",
+    "babel-polyfill": "^6.22.0"
   }
 }
